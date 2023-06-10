@@ -1,0 +1,11 @@
+1.modif level : makan 5x maka naik level + 1 dan msg naik level
+2.level tertentu elementnya adalah sebuah link yang ketika usernya klik maka akan membuka akan link tersebut
+
+-ketika player keluar dari zona board di game maka posisi reset bukan di set manual tapi arahkan balik
+respawn di tempat nabrak
+
+- buat tombol untuk trigger movement dan fungsikan tombol tersebut seperti yang sudah ada
+- munculkan ui untuk level di web supaya user tau level berapa
+-
+
+
