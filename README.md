@@ -13,7 +13,7 @@ This is a simple implementation of the classic game "Flappy Bird" using Object-O
 
 ## Tech Stack
 
-- **HTML**: The game graphics and rendering are done using HTML5 `<canvas>`.
+- **HTML**: The game graphics and rendering are done using HTML5.
 
 - **JavaScript**: The game logic is implemented using JavaScript, following Object-Oriented Programming principles.
 
