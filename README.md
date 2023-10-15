@@ -1,6 +1,6 @@
 # Flappy Bird Game || Simple Game With Javascript
 
-<a href="https://ardiansyah1506.github.io/flappy-bird">Live View</a>
+[Live View](https://ardiansyah1506.github.io/flappy-bird)
 ## Overview
 
 This is a simple implementation of the classic game "Flappy Bird" using Object-Oriented Programming (OOP) principles in JavaScript. The game provides an interactive and enjoyable experience where the player controls a bird that needs to navigate through a series of pipes.
